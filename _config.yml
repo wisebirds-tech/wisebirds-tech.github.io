@@ -2,7 +2,7 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          wisebirds-tech-team
+title:          와이즈버즈 기술 블로그
 paginate:       5
 baseurl:        ""
 url:            "https://wisebirds-tech.github.io"
